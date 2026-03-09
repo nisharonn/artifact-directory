@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Quality of Service Anomaly Detection in Wildfire Monitoring Networks
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Large-scale environmental monitoring networks rely on hundreds of geographically distributed cameras that operate under diverse conditions. For these cameras to reliably support hazard response operations, they must not only detect extreme events but also maintain consistent image quality over time and environmental variability. While the field has well-established models for extreme event detection, there has been little development of systems that identify image quality-related anomalies. To address this gap, we present a camera health monitoring system for the University of California San Diego’s [ALERTCalifornianetwork](https://alertcalifornia.org/). Our approach uses a Vision Transformer-Base encoder to detect frame-level anomalies, enabling the automatic and continuous assessment of camera performance. With an overall accuracy of 93.94% on cameras in the training set and 74.05% on unseen cameras, we demonstrate that machine-learning-based anomaly detection can provide robust camera health assessments, thereby improving the long-term sustainability and reliability of critical environmental monitoring operations. 
